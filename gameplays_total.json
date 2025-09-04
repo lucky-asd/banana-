@@ -1496,7 +1496,7 @@
         "id": 114,
         "title": "直接为图片中的曲面大屏生成 指定的 \"裸眼 3D\" 内容",
         "prompt_en": "为大屏幕上生成指定的裸眼3D内容，创造出立体的视觉效果。内容从屏幕中突出，形成强烈的空间层次感。",
-        "image": "https://github.com/user-attachments/assets/e8a0a83b-edc6-4d23-9a41-eda49cf6b4b4",
+        "image": "https://github.com/user-attachments/assets/7f244b25-02e5-479e-9f5f-2f86a449e3de",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
