@@ -3,450 +3,550 @@
         "id": 150,
         "title": "图片变手办/手办视频",
         "prompt_en": "生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。",
-        "image": "https://example.com/gameplay-150.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 149,
         "title": "名人/指定人物超写实照片级生成",
         "prompt_en": "高分辨率的专业摄影作品，采用编辑类和艺术摄影风格。照片中呈现一个超写实的人物形象，根据提供的参考图片生成，保持精确的面部特征和表情。使用专业摄影设备，柔和的定向光线，精确的细节还原，肤色自然真实。背景为简约的中性色调，突出人物主体。整体呈现出时尚杂志封面般的专业质感。",
-        "image": "https://example.com/gameplay-149.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ameZsuCqj7Px_1-NLwLhj.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 148,
         "title": "指定人物短视频生成",
         "prompt_en": "Create a series of 4 connected frames showing the person from the uploaded photo in different dynamic poses and expressions, maintaining their facial features throughout. Style should be cinematic with professional lighting. Each frame should show slight movement progression as if from a short video sequence. Background should be consistent across all frames with a modern, clean aesthetic.",
-        "image": "https://example.com/gameplay-148.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-pDsaB4o_oiNIjud_j5ypp.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 147,
         "title": "一键换脸",
         "prompt_en": "将第一张图片中人物的脸部特征精确移植到第二张图片的人物身上，保持第二张图片的原始姿势、服装和背景不变。确保脸部融合自然，光照匹配，肤色过渡平滑，无明显合成痕迹。维持原始图片的整体氛围和质感。",
-        "image": "https://example.com/gameplay-147.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 146,
         "title": "人物风格迁移",
         "prompt_en": "将第一张图片的人物按照第二张图片的艺术风格进行重新绘制，保持人物的基本特征和姿势，但采用目标风格的色彩、线条、材质和渲染方式。确保风格转换自然协调，人物识别度保持清晰。",
-        "image": "https://example.com/gameplay-146.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 145,
         "title": "服装试穿",
         "prompt_en": "将第二张图片中的服装精确地穿在第一张图片的人物身上，保持人物的原始姿势和表情。服装应该完美贴合人物身形，考虑到光照、阴影和材质质感。确保服装的颜色、图案和细节都准确还原，整体效果自然真实。",
-        "image": "https://example.com/gameplay-145.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-eJzwap7e7KsSwJofY3ij8.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 144,
         "title": "背景替换",
         "prompt_en": "将第一张图片的人物精确提取并放置到第二张图片的背景环境中，保持人物的原始比例和光照效果。根据新背景调整人物的光影和色调，确保整体画面和谐统一，无违和感。",
-        "image": "https://example.com/gameplay-144.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-yAd6PqQMt86VX6Nh1QFCl.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 143,
         "title": "表情替换",
         "prompt_en": "图一人物参考/换成图二人物的表情",
-        "image": "https://example.com/gameplay-143.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 142,
         "title": "年龄变化",
         "prompt_en": "根据上传的人物照片，生成该人物在不同年龄阶段的样子。从儿童到老年，展现自然的年龄变化过程，保持核心面部特征的一致性。每个年龄阶段都应该呈现出相应的生理特征变化，如皮肤质感、发型、面部轮廓等。",
-        "image": "https://example.com/gameplay-142.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ZwX4XJBz5BqMcvOXYcen0.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 141,
         "title": "姿势控制",
         "prompt_en": "将第一张图片的人物调整为第二张图片中展示的姿势，保持人物的面部特征、服装和整体风格不变。确保姿势转换自然，身体比例协调，动作流畅合理。",
-        "image": "https://example.com/gameplay-141.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 140,
         "title": "动物拟人表情",
         "prompt_en": "把图二猫咪变成图一人物那样的表情",
-        "image": "https://example.com/gameplay-140.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-q-57zaITSb7d5Y21Ya6Rk.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 139,
         "title": "多人物角色一致性",
         "prompt_en": "基于上传的人物照片，在不同的场景和环境中保持该人物的一致性，生成多个不同情境下的图像。确保人物在各种场景中都保持相同的面部特征、发型和基本外观特点。",
-        "image": "https://example.com/gameplay-139.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry--QWzIYAtO7KC3HthhsjH0.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 138,
         "title": "照片变漫画",
         "prompt_en": "将上传的照片转换为漫画风格，保持人物的基本特征但采用漫画的绘画技法。使用明亮的色彩、清晰的线条和夸张的表现手法，营造出生动有趣的漫画效果。背景可以适当简化或风格化处理。",
-        "image": "https://example.com/gameplay-138.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-vVoVQk6rVQBF2bGUMGfOr.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 137,
         "title": "照片修复",
         "prompt_en": "对上传的老旧或损坏照片进行智能修复，包括去除划痕、污渍、褪色等问题。提升照片的清晰度和色彩饱和度，恢复照片的原始质感。如果是黑白照片，可以进行智能上色处理。",
-        "image": "https://example.com/gameplay-137.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-dk3V0sLLTD9fQW0DM9pxn.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 136,
         "title": "照片增强",
         "prompt_en": "对上传的照片进行全面的质量增强，包括提升分辨率、优化光照、增强细节、调整色彩平衡。确保增强后的照片保持自然真实的效果，无过度处理的痕迹。",
-        "image": "https://example.com/gameplay-136.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uWAtByJ544cdR5nBjMM3H.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 135,
         "title": "图片扩展",
         "prompt_en": "基于上传图片的内容和风格，智能扩展图片的边界区域，生成合理的延伸内容。确保扩展部分与原始图片在风格、色调、透视和内容上保持一致和谐。",
-        "image": "https://example.com/gameplay-135.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-nvAEqaxvslDn-p2hCKbHN.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 134,
         "title": "图片变芭比娃娃",
         "prompt_en": "Transform the person in the photo into the style of a Barbie doll packaging box, presented in an isometric perspective. Label the packaging with the title 'ZHOGUE'. Inside the box, showcase the Barbie doll version of the person from the photo, accompanied by their essential items (such as cosmetics, bags, or others) designed as stylish Barbie accessories. Next to the box, also display the actual Barbie doll itself outside of the packaging, rendered in a realistic and lifelike style, resembling official Barbie promotional renders",
-        "image": "https://example.com/gameplay-134.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-NVse4zVhgYoKSGvN__y-m.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 133,
         "title": "万物变高达",
         "prompt_en": "Transform the person in the photo into the style of a Gundam model kit packaging box, presented in an isometric perspective. Label the packaging with the title 'ZHOGUE'. Inside the box, showcase a Gundam-style mecha version of the person from the photo, accompanied by their essential items (such as cosmetics, bags, or others) redesigned as futuristic mecha accessories. The packaging should resemble authentic Gunpla boxes, with technical illustrations, instruction-manual style details, and sci-fi typography. Next to the box, also display the actual Gundam-style mecha figure itself outside of the packaging, rendered in a realistic and lifelike style, similar to official Bandai promotional renders.",
-        "image": "https://example.com/gameplay-133.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-ukn_aztzA4yTNGNF1QCTl.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 132,
         "title": "赛博生娃？！两张人脸生成孩子脸",
         "prompt_en": "生成图中两人物所生孩子的样子，专业摄影",
-        "image": "https://example.com/gameplay-132.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-xl9zEu7r3VDXO_OZGM1a7.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 131,
         "title": "产品设计图转真实效果/渲染",
         "prompt_en": "turn this illustration of a perfume into a realistic version, Frosted glass bottle with a marble cap",
-        "image": "https://example.com/gameplay-131.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_aDii7pr31c7nBC30esLt.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 130,
         "title": "随手拍秒变专业摄影大片",
         "prompt_en": "Transform the person in the photo into highly stylized ultra-realistic portrait, with sharp facial features and flawless fair skin, standing confidently against a bold green gradient background. Dramatic, cinematic lighting highlights her facial structure, evoking the look of a luxury fashion magazine cover. Editorial photography style, high-detail, 4K resolution, symmetrical composition, minimalistic background",
-        "image": "https://example.com/gameplay-130.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-Y5nxZct49r5jpDJgeziht.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 129,
         "title": "光影参考",
         "prompt_en": "图一换成图二打光，专业摄影",
-        "image": "https://example.com/gameplay-129.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 128,
         "title": "使用光影人偶做打光参考",
         "prompt_en": "图一人物变成图二光影，深色为暗",
-        "image": "https://example.com/gameplay-128.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-jmGRjdDLKOu0Lwb-gg2Se.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 127,
         "title": "生成绘画/渲染过程四宫格",
         "prompt_en": "把图一变成图二那样的四宫格，从草图逐渐到上色渲染",
-        "image": "https://example.com/gameplay-127.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-tcPJYJqWhSiLBt-KMnuyD.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 126,
         "title": "一句话照片变插画还附带绘画过程",
         "prompt_en": "为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字",
-        "image": "https://example.com/gameplay-126.png",
+        "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/76/example_anime_nostalgic_poster.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 125,
         "title": "脸型参考/控制，秒变卡通形象",
         "prompt_en": "图一人物按照图二的脸型设计为q版形象",
-        "image": "https://example.com/gameplay-125.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-8kfas56Jc3-f15O89pzKN.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 124,
         "title": "一句咒语任何风格变写实",
         "prompt_en": "turn this illustration into realistic version",
-        "image": "https://example.com/gameplay-124.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-h3g_ajtU5hs70Yy0tskiN.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 123,
         "title": "曲面屏贴图",
         "prompt_en": "把图一放在图二大屏幕上，撑满整个屏幕",
-        "image": "https://example.com/gameplay-123.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-BOHwhmk-H-LxQ398epkPp.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 122,
         "title": "直接为图片中的曲面大屏生成指定的\"裸眼3D\"内容",
         "prompt_en": "为大屏幕上换上裸眼 3D 猫猫",
-        "image": "https://example.com/gameplay-122.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-jyQlvtvYcyYWu61X_cWk6.png",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 121,
         "title": "任意图片变挂件挂在包包上",
         "prompt_en": "把这张照片变成一个可爱挂件/亚克力材质的扁平钥匙扣/橡胶材质的扁平钥匙扣 挂在 lv 包包/图二照片的包包上",
-        "image": "https://example.com/gameplay-121.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-d4mtCy2DuZk2bkXiDMoOS.png",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 120,
         "title": "叠加指定材质质感/效果",
         "prompt_en": "为图一照片叠加上图二玻璃的效果",
-        "image": "https://example.com/gameplay-120.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 119,
         "title": "照片变娃娃",
         "prompt_en": "把这张照片变成一个可爱玩偶",
-        "image": "https://example.com/gameplay-119.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-WnFEERTJJbnDpcjKdb35U.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 118,
         "title": "产品包装贴合",
         "prompt_en": "把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影",
-        "image": "https://example.com/gameplay-118.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-QGCQ1jjuNoKYgwFDo61qW.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 117,
         "title": "把指定图片贴在大阶梯上",
         "prompt_en": "把图一海报贴在图二的大阶梯上",
-        "image": "https://example.com/gameplay-117.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-rlprrmpgrWYxzcGFG6cN5.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 116,
         "title": "虚拟试妆？！化指定妆面",
         "prompt_en": "为图一人物化上图二的妆，还保持图一的姿势",
-        "image": "https://example.com/gameplay-116.png",
+        "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images/cases/66/example_silk_creation_universe.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 115,
         "title": "妆面分析+优化建议",
         "prompt_en": "Analyze this image. Use red pen to denote where you can improve",
-        "image": "https://example.com/gameplay-115.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-sleMUJG0_smfYhUJ0x9zk.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 114,
         "title": "工业设计手绘秒变实景效果",
         "prompt_en": "turn this photo into realistic version, with light brown leather, put into a Minimalism museum",
-        "image": "https://example.com/gameplay-114.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-NwKHSkobGZuQuaTfzYnkk.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 113,
         "title": "工业设计套图：马克笔、水彩、分析图、渲染图",
         "prompt_en": "turn this photo into 马克笔画/水彩画/diagram",
-        "image": "https://example.com/gameplay-113.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ofHrVK4oclwpJayzpx6C5.png",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 1 }
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 112,
         "title": "绝美卡片设计",
         "prompt_en": "按照我的图一名片设计稿的构图和质感，为我的图二人物生成卡片\n\n卡片右上角为可爱卡通形象，突出于卡片\n\nname: Nani\nOccupation：artist\nCompany：zano-banana\nTelephone：82732691",
-        "image": "https://example.com/gameplay-112.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-BZ4bE3tr5QKkaogEl_XQI.png",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 2 }
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 111,
         "title": "多人物插画集",
         "prompt_en": "把前四个人物都变成图五那样的 黑白 极简风插画，人物要可爱并保持各自特点，并为每个人物配上合适的小道具，线条要优美，头发部分像图五那样为黑色块，并在一张图里",
-        "image": "https://example.com/gameplay-111.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-5NAPAcMNSLl7j8PuX5mnt.png",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 5 }
+        "imageRequirement": {
+            "count": 5
+        }
     },
     {
         "id": 110,
         "title": "AI自拍照",
         "prompt_en": "生成一张超级真实的AI自拍照，就像真人用手机自拍一样自然。人物应该有自然的表情和姿势，背景为日常环境，光线柔和自然，呈现出现代年轻人自拍的真实感觉。",
-        "image": "https://example.com/gameplay-110.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-g1eDis0d0iaIEKLnkUSaa.png",
         "generationType": "text-to-image",
         "promptType": "fixed",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 109,
         "title": "创意Logo设计",
         "prompt_en": "为【{品牌名称}】设计一个现代简约的Logo，体现【{品牌特色}】的核心理念。Logo应该具有强烈的识别性和记忆点，适用于多种媒体平台。使用简洁的几何形状和现代字体，色彩搭配要专业且富有创意。",
-        "image": "https://example.com/gameplay-109.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-4z8yN-EVHRBthTnpCB8Ka.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 108,
         "title": "品牌视觉识别系统",
         "prompt_en": "为【{品牌名称}】创建完整的视觉识别系统，包括Logo、名片、信纸、包装设计等多个应用场景的展示。整体风格要统一协调，体现品牌的专业性和独特性。色彩方案要现代时尚，版式设计要简洁大气。",
-        "image": "https://example.com/gameplay-108.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ufKQRU-0zXXlACt_A_DNd.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 107,
         "title": "社交媒体封面设计",
         "prompt_en": "设计一张现代感十足的社交媒体封面图，主题为【{主题内容}】。使用渐变色背景，搭配现代字体和几何图形元素。整体风格要年轻化、活力十足，符合社交媒体的视觉调性。比例为16:9。",
-        "image": "https://example.com/gameplay-107.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-H0E8EqQ10jrbe0d8q7137.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 106,
         "title": "产品包装设计",
         "prompt_en": "为【{产品名称}】设计创新的产品包装，体现【{产品特点}】。包装设计要既实用又美观，符合目标消费群体的审美偏好。使用环保材料概念，色彩搭配要突出产品特色，整体风格要现代简约。",
-        "image": "https://example.com/gameplay-106.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-0bQpHIpimYLLrSJ8qe6C6.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 105,
         "title": "节日主题海报",
         "prompt_en": "创作一张【{节日名称}】主题的节日海报，融入传统文化元素和现代设计手法。使用节日特色的色彩搭配，添加相关的装饰元素和祝福文字。整体氛围要温馨欢乐，富有节日气息。",
-        "image": "https://example.com/gameplay-105.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-KMvfZkLFuvMEzCzBT8ywr.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 104,
         "title": "科技感UI界面",
         "prompt_en": "设计一个未来科技感的【{应用类型}】APP界面，使用深色主题和霓虹色点缀。界面布局要简洁直观，包含常用功能按钮和数据展示区域。整体风格要体现科技感和专业性。",
-        "image": "https://example.com/gameplay-104.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-REfe_PfgYfz67f5liafKu.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 103,
         "title": "复古风格海报",
         "prompt_en": "创作一张【{主题内容}】的复古风格海报，采用20世纪中期的设计美学。使用复古色彩搭配、经典字体和几何图案。整体要有怀旧感，同时保持现代的设计品质。",
-        "image": "https://example.com/gameplay-103.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-0QNwJ8orXTqLGNNtoM2Uq.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 102,
         "title": "简约现代插画",
         "prompt_en": "创作一幅【{主题内容}】的简约现代插画，使用极简的线条和几何形状。色彩搭配要和谐统一，整体风格要现代简约，富有艺术感。适合用作装饰画或品牌配图。",
-        "image": "https://example.com/gameplay-102.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-SoZP2Zw1HCRXGONFdZSDs.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 101,
         "title": "卡通角色设计",
         "prompt_en": "设计一个可爱的卡通角色，主题为【{角色特征}】。角色要有鲜明的个性特点和独特的造型设计，色彩要明亮活泼，表情要生动有趣。适合用于品牌吉祥物或儿童产品。",
-        "image": "https://example.com/gameplay-101.png",
+        "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-uvbE1o3K9l86ZW1N1pNML.png",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": { "count": 0 }
+        "imageRequirement": {
+            "count": 0
+        }
     }
 ]
