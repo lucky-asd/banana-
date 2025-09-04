@@ -253,7 +253,7 @@
     },
     {
         "id": 122,
-        "title": "直接为图片中的曲面大屏生成指定的\"裸眼3D\"内容",
+        "title": "直接为图片中的曲面大屏生成指定的"裸眼3D"内容",
         "prompt_en": "为大屏幕上换上裸眼 3D 猫猫",
         "image": "https://example.com/gameplay-122.png",
         "generationType": "image-to-image",
