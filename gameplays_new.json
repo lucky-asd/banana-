@@ -6,9 +6,7 @@
         "image": "https://github.com/user-attachments/assets/6440b1eb-4ecb-4d77-8dba-63c6d61c1ad3",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 145,
@@ -17,9 +15,7 @@
         "image": "https://github.com/user-attachments/assets/0a0fd607-66c4-4993-bd10-fe3f1b734ef0",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 144,
@@ -28,9 +24,7 @@
         "image": "https://github.com/user-attachments/assets/f78a58fe-87c3-4473-b929-9c1db31b205e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 143,
@@ -39,9 +33,7 @@
         "image": "https://github.com/user-attachments/assets/271b390b-d9a9-4292-bb17-8602f73352f2",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 142,
@@ -50,9 +42,7 @@
         "image": "https://github.com/user-attachments/assets/8ce14b2a-69eb-45e5-8a61-3a78ba42c840",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 141,
@@ -61,9 +51,7 @@
         "image": "https://github.com/user-attachments/assets/e05b8092-b2ce-4f20-b9d1-a40a28c1da6f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 140,
@@ -72,9 +60,7 @@
         "image": "https://github.com/user-attachments/assets/746a09a7-fe29-40f9-8d02-815e6424f310",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 139,
@@ -83,9 +69,7 @@
         "image": "https://github.com/user-attachments/assets/0fe32335-ace1-4333-94e3-389c344daab4",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 138,
@@ -94,9 +78,7 @@
         "image": "https://github.com/user-attachments/assets/5e9afd1c-82ca-4e70-a90d-23bed8794531",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 137,
@@ -105,9 +87,7 @@
         "image": "https://github.com/user-attachments/assets/6052b039-48cd-41e7-afa8-71a297a33b1f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 136,
@@ -116,9 +96,7 @@
         "image": "https://github.com/user-attachments/assets/0b1e156d-c461-42cd-9c11-a23643475993",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": {
-            "count": 0
-        }
+        "imageRequirement": {"count": 0}
     },
     {
         "id": 135,
@@ -127,9 +105,7 @@
         "image": "https://github.com/user-attachments/assets/fa56c1ed-7b9c-4092-8c23-26ac18c65014",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 134,
@@ -138,9 +114,7 @@
         "image": "https://github.com/user-attachments/assets/7450b369-c961-423e-9121-b6beb881b3c6",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 133,
@@ -149,9 +123,7 @@
         "image": "https://github.com/user-attachments/assets/18299b01-efb6-43fb-8b44-a6c2be0464b4",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 132,
@@ -160,9 +132,7 @@
         "image": "https://github.com/user-attachments/assets/6d6f82ff-f18f-40f8-b16d-b6d2c03bae8e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 131,
@@ -171,9 +141,7 @@
         "image": "https://github.com/user-attachments/assets/c1a845af-88d4-4510-80e8-6f19c6407718",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 130,
@@ -182,9 +150,7 @@
         "image": "https://github.com/user-attachments/assets/15374566-a3b1-42ea-b5f5-54480cee523f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 129,
@@ -193,9 +159,7 @@
         "image": "https://github.com/user-attachments/assets/0ffe62be-0e7a-46d2-9f75-b047cca5fd76",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 128,
@@ -204,9 +168,7 @@
         "image": "https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 127,
@@ -215,9 +177,7 @@
         "image": "https://github.com/user-attachments/assets/55e1b0be-1edd-4f33-9867-cc6d20723059",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 126,
@@ -226,9 +186,7 @@
         "image": "https://github.com/user-attachments/assets/b95825f7-e9a4-4406-9fb6-093d8da1c000",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 125,
@@ -237,9 +195,7 @@
         "image": "https://github.com/user-attachments/assets/a0a2f0af-26d0-445c-ba9d-f2481812e09d",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 124,
@@ -248,9 +204,7 @@
         "image": "https://github.com/user-attachments/assets/f4d68a17-9d54-4cbe-b8b0-d4917463a3fc",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 123,
@@ -259,9 +213,7 @@
         "image": "https://github.com/user-attachments/assets/783be09e-e3a5-4afb-874d-0216fb3709ac",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 122,
@@ -270,9 +222,7 @@
         "image": "https://github.com/user-attachments/assets/7056e7c4-4ac1-4ad8-b5c2-5c40eab75966",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 121,
@@ -281,9 +231,7 @@
         "image": "https://github.com/user-attachments/assets/3ad7ed8b-d6aa-4da1-b8f9-2d4ec8ba7e5c",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 120,
@@ -292,9 +240,7 @@
         "image": "https://github.com/user-attachments/assets/23ab8fbe-7c7e-46b5-acd7-0c7bb8a1eda7",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 119,
@@ -303,9 +249,7 @@
         "image": "https://github.com/user-attachments/assets/e3c82b20-2e8f-4027-b83d-b65b32b2a5ad",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 118,
@@ -314,9 +258,7 @@
         "image": "https://github.com/user-attachments/assets/8f2af564-8d4a-4da1-857d-e62b40b54c64",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 117,
@@ -325,9 +267,7 @@
         "image": "https://github.com/user-attachments/assets/3fd97a87-b3c6-4a28-96b6-2c4e7abf9a15",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 116,
@@ -336,9 +276,7 @@
         "image": "https://github.com/user-attachments/assets/57ec51e1-fd5a-4e5a-9ded-0e85b7043fc5",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 115,
@@ -347,9 +285,7 @@
         "image": "https://github.com/user-attachments/assets/28fdb756-a3a4-4faa-ac59-49f4949c2bb5",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 114,
@@ -358,9 +294,7 @@
         "image": "https://github.com/user-attachments/assets/e8a0a83b-edc6-4d23-9a41-eda49cf6b4b4",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 113,
@@ -369,9 +303,7 @@
         "image": "https://github.com/user-attachments/assets/e11c3ad6-d871-48b2-bdf7-ec8b7bdceca0",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 112,
@@ -380,9 +312,7 @@
         "image": "https://github.com/user-attachments/assets/3c9b5cfe-e3ae-4c5a-9e72-fec8dd2c9c64",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 111,
@@ -391,9 +321,7 @@
         "image": "https://github.com/user-attachments/assets/15374566-a3b1-42ea-b5f5-54480cee523f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 110,
@@ -402,9 +330,7 @@
         "image": "https://github.com/user-attachments/assets/0ffe62be-0e7a-46d2-9f75-b047cca5fd76",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 109,
@@ -413,9 +339,7 @@
         "image": "https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 108,
@@ -424,9 +348,7 @@
         "image": "https://github.com/user-attachments/assets/55e1b0be-1edd-4f33-9867-cc6d20723059",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 107,
@@ -435,9 +357,7 @@
         "image": "https://github.com/user-attachments/assets/9e3b5ff7-84cc-4e9b-aacc-4f4b00b3a3d5",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 106,
@@ -446,9 +366,7 @@
         "image": "https://github.com/user-attachments/assets/2a5d4c6f-7a7b-4e20-84ac-19f9db0ff8b2",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 105,
@@ -457,9 +375,7 @@
         "image": "https://github.com/user-attachments/assets/5bb8a79b-9c7e-48b7-97cf-8c89e1b3a8f6",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {
-            "count": 1
-        }
+        "imageRequirement": {"count": 1}
     },
     {
         "id": 104,
@@ -468,9 +384,7 @@
         "image": "https://github.com/user-attachments/assets/a19ad2a5-84d8-471a-beb3-b1caa9dc5b59",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 103,
@@ -479,9 +393,7 @@
         "image": "https://github.com/user-attachments/assets/c8f4b1f4-9aa6-4f89-b1d2-18b5cb75db14",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 102,
@@ -490,9 +402,7 @@
         "image": "https://github.com/user-attachments/assets/a19ad2a5-84d8-471a-beb3-b1caa9dc5b59",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {
-            "count": 2
-        }
+        "imageRequirement": {"count": 2}
     },
     {
         "id": 101,
@@ -501,8 +411,6 @@
         "image": "https://github.com/user-attachments/assets/c8f4b1f4-9aa6-4f89-b1d2-18b5cb75db14",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {
-            "count": 4
-        }
+        "imageRequirement": {"count": 4}
     }
 ]
