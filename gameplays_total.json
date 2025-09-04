@@ -38,7 +38,7 @@
         "prompt_en": "一张特写、构图专业的照片，展示一个手工钩织的毛线玩偶被双手轻柔地托着。玩偶造型圆润，【上传图片】人物得可爱Q版形象，色彩对比鲜明，细节丰富。持玩偶的双手自然、温柔，手指姿态清晰可见，皮肤质感与光影过渡自然，展现出温暖且真实的触感。背景轻微虚化，表现为室内环境，有温暖的木质桌面和从窗户洒入的自然光，营造出舒适、亲密的氛围。整体画面传达出精湛的工艺感与被珍视的温馨情绪。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-FpVTUFWK2dhd1GSysOFdh.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "上传一张照片生成其Q版针织玩偶形象。"
@@ -50,7 +50,7 @@
         "prompt_en": "生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-qVK6fm-fP8a4-LxpaN7Ji.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要包含人物全身姿势、面部表情及服装造型的照片。"
@@ -85,7 +85,7 @@
         "prompt_en": "对参考图片进行重新纹理化，基于下方的 JSON 美学定义\n{\n  \"style\": \"photorealistic 3D render\",\n  \"material\": \"glass with transparent and iridescent effects\",\n  \"surface_texture\": \"smooth, polished with subtle reflections and refractive effects\",\n  \"lighting\": {\n    \"type\": \"studio HDRI\",\n    \"intensity\": \"high\",\n    \"direction\": \"angled top-left key light and ambient fill\",\n    \"accent_colors\": [\"blue\", \"green\", \"purple\"],\n    \"reflections\": true,\n    \"refractions\": true,\n    \"dispersion_effects\": true,\n    \"bloom\": true\n  },\n  \"color_scheme\": {\n    \"primary\": \"transparent with iridescent blue, green, and purple hues\",\n    \"secondary\": \"crystal-clear with subtle chromatic shifts\",\n    \"highlights\": \"soft, glowing accents reflecting rainbow-like effects\",\n    \"rim_light\": \"soft reflective light around edges\"\n  },\n  \"background\": {\n    \"color\": \"black\",\n    \"vignette\": true,\n    \"texture\": \"none\"\n  },\n  \"post_processing\": {\n    \"chromatic_aberration\": true,\n    \"glow\": true,\n    \"high_contrast\": true,\n    \"sharp_details\": true\n  }\n}",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-QCdSAN2IyigyHVVplpXGL.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要上传一张图像作为重新纹理化的基础。"
@@ -109,7 +109,7 @@
         "prompt_en": "将图像转换为绘制在古老羊皮纸上的古代藏宝图。地图包含详细的元素，如海洋上的帆船、海岸线上的古老港口或城堡、通向标记宝藏地点的大“X”的虚线路径、山脉、棕榈树和装饰性的罗盘玫瑰。整体风格让人联想到旧时的海盗冒险电影。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jPX65pFLBMTvzVaCgSjlz.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要上传一张地图图片作为转换的基础。"
@@ -244,7 +244,7 @@
         "prompt_en": "创建一幅高度精细且色彩鲜艳的乐高版上海外滩景象。前景呈现经典的外滩历史建筑群，用乐高砖块精致还原西式与新古典主义风格的建筑立面，包括钟楼、穹顶、柱廊等细节。乐高小人们正在沿江漫步、拍照、观光，街道两旁停靠着经典样式的乐高汽车。背景是壮观的黄浦江，以蓝色半透明乐高砖拼接，江面上有乐高渡轮和游览船。对岸的浦东陆家嘴高楼林立，包括东方明珠塔、上海中心、金茂大厦和环球金融中心，这些超现代乐高摩天大楼色彩丰富、造型逼真。天空为乐高明亮蓝色，点缀少量白色乐高积木云朵，整体呈现充满活力与现代感的视觉效果。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Nc-vAhaIHqHisicziRUQ5.png",
         "generationType": "text-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0
         }
@@ -347,7 +347,7 @@
         "prompt_en": "根据此物体（提供的照片）创作一个原创生物。该生物应看起来像是属于一个奇幻怪物捕捉宇宙，具有受复古日式RPG怪物艺术影响的可爱或酷炫设计。图像必须包含：\n  – 生物的全身视图，灵感来自物体的形状、材料或用途。\n  – 在其脚边有一个小球体或胶囊（类似于精灵球），其设计图案和颜色与物体的外观相匹配——不是标准的精灵球，而是自定义设计。\n  – 为生物发明的名字，显示在其旁边或下方。 – 其元素类型（例如火、水、金属、自然、电……），基于物体的核心属性。插图应看起来像是来自奇幻生物百科全书，线条清晰，阴影柔和，设计富有表现力且以角色为驱动。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-0fyYo7d2Vc3ufHnXU0fxh.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要上传一张物体、食物等的照片作为灵感来源。"
@@ -570,7 +570,7 @@
         "prompt_en": "一幅超写实、电影感的插画，描绘了劳拉·克劳馥动态地撞穿一张“考古探险”集换卡牌的边框。她正处于跳跃中或用绳索摆荡，穿着标志性的冒险装备，可能正在使用双枪射击，枪口的火焰帮助将卡牌古老的石雕边框震碎，在破口周围制造出可见的维度破裂效果，如能量裂纹和空间扭曲，使灰尘和碎片四散飞溅。她的身体充满活力地向前冲出，带有明显的运动深度，突破了卡牌的平面，卡牌内部（背景）描绘着茂密的丛林遗迹或布满陷阱的古墓内部。卡牌的碎屑与 crumbling 的石头、飞舞的藤蔓、古钱币碎片和用过的弹壳混合在一起。“考古探险”的标题和“劳拉·克劳馥”的名字（带有一个风格化的文物图标）在卡牌剩余的、布满裂纹和风化痕迹的部分上可见。充满冒险感的、动态的灯光突出了她的运动能力和危险的环境。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-BLiip47sS1MZ2p6RoUSJN.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0,
             "description": "可选。"
@@ -593,7 +593,7 @@
         "prompt_en": "将图片/描述/emoji转换为参考图一样的体素 3D 图标，Octane 渲染，8k",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-DePREjDt3nz6nxtQSWCtb.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 2,
             "description": "需要体素风格参考图和要转换的原始图标。"
@@ -605,7 +605,7 @@
         "prompt_en": "一个超写实的等距视角 3D 渲染图，展示了一个微型电脑工作空间，置于一个半透明的机械键盘键帽内，键帽特别放置在一块真实哑光表面的机械键盘的 ESC 键上。\n键帽内部，一个穿着舒适、有纹理连帽衫的小人坐在现代人体工学椅上，正专注地面对一块发光的超写实电脑屏幕工作。整个空间布满了逼真的微型科技配件：真实材质的台灯、带有反射效果的显示器、微小的扬声器格栅、缠绕的电缆以及陶瓷杯子。\n场景底部由土壤、岩石和苔藓构成，拥有照片级的材质质感和自然瑕疵。键帽内的光照模拟清晨自然阳光，投下柔和阴影与温暖光调；而键帽外部则受周围键盘环境的冷色调反射影响。\n“ESC”字样以微弱的磨砂玻璃效果蚀刻在半透明键帽顶部——根据视角不同，仅隐约可见。\n周围的按键如 F1、Q、Shift 和 CTRL 均清晰可见，拥有真实材质纹理与光照。整体画面仿佛由高端手机相机拍摄，具备浅景深、完美白平衡与电影感细节。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-OdsAa2Rkg3eU7abakGfNZ.png",
         "generationType": "text-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0
         }
@@ -650,7 +650,7 @@
         "prompt_en": "把图片人物生成变成 Q 版可爱俄罗斯套娃🪆，大到小一共五个，放在精致的木桌上，横幅3:2比例",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-pIPRRA5PM8cxFXTs-Alr8.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要上传一张人物图片作为转换对象。"
@@ -685,7 +685,7 @@
         "prompt_en": "创建一张日系萌系双格漫画，上下排列，主题：少女总统的工作日常。\n\n角色形象: 将上传的附件转换为日系萌系卡通女生形象的风格，保留原图所有细节，如服饰（西装）、发型（明亮的金黄色）、五官等。 \n\n第一格: \n- 表情: 委屈巴巴，沮丧的表情，单手托腮 \n- 文字框: “肿么办嘛！他不跟我通话！(；´д｀)” \n- 场景: 暖色调办公室，背后美国国旗，桌上放着一堆汉堡，一个复古红色转盘电话，人物在画面左边，电话在右边。  \n\n第二格:  \n- 表情: 咬牙切齿，暴怒，脸涨红 \n- 动作: 猛拍桌子，汉堡震得跳起来 \n- 文字泡: “哼！关税加倍！不理我是他们的损失！( `д´ )” - 场景: 和第一格相同，但一片狼藉。  \n\n其他说明:  \n- 文字采用简洁可爱的手写体，整体风格可爱而有趣。 \n- 构图饱满生动，请保留足够空间用于文字显示，适当留白。 \n- 图片比例 2:3。 \n- 画面整体色彩鲜艳，突出卡通风格。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-XDM_nzoGX3B2jB9L7igPb.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要上传一张人物照片作为参考。"
@@ -708,7 +708,7 @@
         "prompt_en": "创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。\n\n卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。周边适当留白。\n\n卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。\n“做 IP 是长期复利\n坚持每日更新，肯定会有结果，因为 99% 都坚持不了的！”",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-IYHHoIpU4W019PKtENm5m.png",
         "generationType": "text-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0
         }
@@ -752,7 +752,7 @@
         "prompt_en": "创作一张手绘风格的信息图卡片，比例为9:16竖版。卡片主题鲜明，背景为带有纸质肌理的米色或米白色，整体设计体现质朴、亲切的手绘美感。\n\n卡片上方以红黑相间、对比鲜明的大号毛笔草书字体突出标题，吸引视觉焦点。文字内容均采用中文草书，整体布局分为2至4个清晰的小节，每节以简短、精炼的中文短语表达核心要点。字体保持草书流畅的韵律感，既清晰可读又富有艺术气息。\n\n卡片中点缀简单、有趣的手绘插画或图标，例如人物或象征符号，以增强视觉吸引力，引发读者思考与共鸣。\n整体布局注意视觉平衡，预留足够的空白空间，确保画面简洁明了，易于阅读和理解。\n\n<h1><span style=\"color:red\">「认知」</span>决定上限\n<span style=\"color:red\">「圈子」</span>决定机会</h1>\n- 你赚不到「认知」以外的钱，\n- 也遇不到「圈子」以外的机会。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-ypjUbOaP1AqH_HBZ4VisI.png",
         "generationType": "text-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0
         }
@@ -844,7 +844,7 @@
         "prompt_en": "《大师麦片》：根据我上传的照片的人物特征判断，为他生成一个符合他特质的燕麦片搭配（比如蔬菜、水果、酸奶、粗粮等等）和包装设计，然后生成他作为麦片包装盒封面人物 加 相应麦片搭配的广告封面，人物要保持特征、可爱Q版3d、c4d渲染风格，麦片所放置的地方的风格也要符合设定，比如放在厨房、超市 极简主义的设计台上等等，先做好设定，再生成图像。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-AwueZe4-K5TmsFTdgWEIV.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要《戴珍珠耳环的少女》图片。"
@@ -856,7 +856,7 @@
         "prompt_en": "使用以下 JSON 配置文件生成一个马桶：\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-FmnXy_FIA3t2o2JM1Acw7.png",
         "generationType": "text-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0
         }
@@ -867,7 +867,7 @@
         "prompt_en": "把照片中的人物变成 Funko Pop 公仔包装盒的风格，以等距视角（isometric）呈现，并在包装盒上标注标题为“JAMES BOND”。包装盒内展示的是照片中人物形象，旁边搭配有人物的必备物品（手枪、手表、西装、其他）同时，在包装盒旁边还应呈现该公仔本体的实物效果，采用逼真的、具有真实感的渲染风格。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-jCu4umK_f5nXmIbJCXh8U.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要一张半身或者全身清晰照片。"
@@ -891,7 +891,7 @@
         "prompt_en": "画图：画一个小红书封面。\n要求：\n有足够的吸引力吸引用户点击；\n字体醒目，选择有个性的字体；\n文字大小按重要度分级，体现文案的逻辑结构；\n标题是普通文字的至少2倍；\n文字段落之间留白。\n只对要强调的文字用醒目色吸引用户注意；\n背景使用吸引眼球的图案（包括不限于纸张，记事本，微信聊天窗口，选择一种）\n使用合适的图标或图片增加视觉层次，但要减少干扰。\n\n文案：重磅！ChatGPT又变强了！\n多任务处理更牛✨\n编程能力更强💪\n创造力爆表🎨\n快来试试！\n\n图像9:16比例",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-JrohnNyUR5N1InLRZ6i--.png",
         "generationType": "text-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 0
         }
@@ -960,7 +960,7 @@
         "prompt_en": "基于附件中的人物，生成一个二次元风格的徽章的照片，要求：\n材质：流苏\n形状：圆形\n画面主体：一只手手持徽章",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-Ca-5YJ46y4a9sscNaxYEu.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要上传一张人物照片作为徽章图案的参考。"
@@ -983,7 +983,7 @@
         "prompt_en": "把照片中的人物变成《海贼王》（One Piece）动漫主题手办包装盒的风格，以等距视角（isometric）呈现。包装盒内展示的是基于照片人物的《海贼王》动漫画风设计的形象，旁边搭配有日常必备物品（手枪、手表、西装和皮鞋）同时，在包装盒旁边还应呈现该手办本体的实物效果，采用逼真的、具有真实感的渲染风格。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-NvCTQQUq05OW6oKH5qwRq.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要一张半身或者全身照片。"
@@ -1052,7 +1052,7 @@
         "prompt_en": "根据我上传的照片，生成一张纵向比例的照片，使用以下提示词：\n经典乐高人偶风格，一个微缩场景 —— 一只动物站在我身旁。这只动物的配色与我相匹配。\n请根据你对我的理解来创造这只动物（你可以选择任何你认为适合我的动物，不论是真实存在的，还是超现实的、幻想的，只要你觉得符合我的气质即可）。\n整个场景设定在一个透明玻璃立方体内，布景极简。\n微缩场景的底座是哑光黑色，配以银色装饰，风格简约且时尚。\n底座上有一块优雅雕刻的标签牌，字体为精致的衬线体，上面写着该动物的名称。\n底部设计中还巧妙融入了类似自然历史博物馆展示的生物学分类信息，以精细蚀刻的方式呈现。\n整体构图像是一件高端收藏艺术品：精心打造、策展般呈现、灯光细致。\n构图重在平衡。背景为渐变色，从深色到浅色过渡（颜色基于主色调进行选择）。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini--GfTzdWQbEMLDiJiRLZ0T.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要一张半身或者全身单人照片。"
@@ -1075,7 +1075,7 @@
         "prompt_en": "照片中的角色的 3D Q 版形象穿过传送门，牵着观众的手，在将观众拉向前时动态地回头一看。传送门外的背景是观众的现实世界，一个典型的程序员的书房，有书桌，显示器和笔记本电脑，传送门内是角色所处的3D Q 版世界，细节可以参考照片，整体呈蓝色调，和现实世界形成鲜明对比。传送门散发着神秘的蓝色和紫色色调，是两个世界之间的完美椭圆形框架处在画面中间。从第三人称视角拍摄的摄像机角度，显示观看者的手被拉入角色世界。2：3 的宽高比。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-_NKwGXWrnvn2lkTyd9BcW.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要一张半身或者全身单人照片。"
@@ -1087,7 +1087,7 @@
         "prompt_en": "以吉卜力风格重绘这张照片. 如果背景里有不合适（敏感）的内容，可以进行修改或删除。",
         "image": "https://bibigpt-apps.chatvid.ai/chatimg/gemini-retry-X0RI3ZzR8ycbFfn-1fHDY.png",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1,
             "description": "需要一张人物或者其他照片。"
