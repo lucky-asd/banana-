@@ -3,10 +3,12 @@
         "id": 146,
         "title": "出圈/火的用法：图片变手办/手办视频",
         "prompt_en": "生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。",
-        "image": "https://github.com/user-attachments/assets/6440b1eb-4ecb-4d77-8dba-63c6d61c1ad3",
+        "image": "https://github.com/user-attachments/assets/0a0fd607-66c4-4993-bd10-fe3f1b734ef0",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 145,
@@ -15,7 +17,9 @@
         "image": "https://github.com/user-attachments/assets/0a0fd607-66c4-4993-bd10-fe3f1b734ef0",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 144,
@@ -24,16 +28,20 @@
         "image": "https://github.com/user-attachments/assets/f78a58fe-87c3-4473-b929-9c1db31b205e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 143,
         "title": "建筑图转模型/建模",
         "prompt_en": "将建筑平面图或立面图转换为三维建筑模型，包含精确的结构细节、材质质感和环境设置。生成现代简约风格的建筑渲染图，光线自然，阴影真实，符合建筑设计标准。",
-        "image": "https://github.com/user-attachments/assets/271b390b-d9a9-4292-bb17-8602f73352f2",
+        "image": "https://github.com/user-attachments/assets/f78a58fe-87c3-4473-b929-9c1db31b205e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 142,
@@ -42,7 +50,9 @@
         "image": "https://github.com/user-attachments/assets/8ce14b2a-69eb-45e5-8a61-3a78ba42c840",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 141,
@@ -51,7 +61,9 @@
         "image": "https://github.com/user-attachments/assets/e05b8092-b2ce-4f20-b9d1-a40a28c1da6f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 140,
@@ -60,16 +72,20 @@
         "image": "https://github.com/user-attachments/assets/746a09a7-fe29-40f9-8d02-815e6424f310",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 139,
         "title": "商品广告短片：指定人物 + 商品",
         "prompt_en": "创建专业的商品广告视觉效果，将指定人物与商品巧妙结合。人物姿态自然，与商品形成良好的互动关系。背景简洁大气，突出商品特色，整体呈现高端商业广告的质感。",
-        "image": "https://github.com/user-attachments/assets/0fe32335-ace1-4333-94e3-389c344daab4",
+        "image": "https://github.com/user-attachments/assets/5e9afd1c-82ca-4e70-a90d-23bed8794531",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 138,
@@ -78,7 +94,9 @@
         "image": "https://github.com/user-attachments/assets/5e9afd1c-82ca-4e70-a90d-23bed8794531",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 137,
@@ -87,7 +105,9 @@
         "image": "https://github.com/user-attachments/assets/6052b039-48cd-41e7-afa8-71a297a33b1f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 136,
@@ -96,7 +116,9 @@
         "image": "https://github.com/user-attachments/assets/0b1e156d-c461-42cd-9c11-a23643475993",
         "generationType": "text-to-image",
         "promptType": "template",
-        "imageRequirement": {"count": 0}
+        "imageRequirement": {
+            "count": 0
+        }
     },
     {
         "id": 135,
@@ -105,7 +127,9 @@
         "image": "https://github.com/user-attachments/assets/fa56c1ed-7b9c-4092-8c23-26ac18c65014",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 134,
@@ -114,16 +138,20 @@
         "image": "https://github.com/user-attachments/assets/7450b369-c961-423e-9121-b6beb881b3c6",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 133,
         "title": "精准替换视频人物",
         "prompt_en": "在视频帧序列中精确替换指定人物，保持动作连贯性和场景一致性。适用于影视后期制作、广告创作等需要人物替换的场景。",
-        "image": "https://github.com/user-attachments/assets/18299b01-efb6-43fb-8b44-a6c2be0464b4",
+        "image": "https://github.com/user-attachments/assets/6d6f82ff-f18f-40f8-b16d-b6d2c03bae8e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 132,
@@ -132,7 +160,9 @@
         "image": "https://github.com/user-attachments/assets/6d6f82ff-f18f-40f8-b16d-b6d2c03bae8e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 131,
@@ -141,7 +171,9 @@
         "image": "https://github.com/user-attachments/assets/c1a845af-88d4-4510-80e8-6f19c6407718",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 130,
@@ -150,7 +182,9 @@
         "image": "https://github.com/user-attachments/assets/15374566-a3b1-42ea-b5f5-54480cee523f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 129,
@@ -159,7 +193,9 @@
         "image": "https://github.com/user-attachments/assets/0ffe62be-0e7a-46d2-9f75-b047cca5fd76",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 128,
@@ -168,7 +204,9 @@
         "image": "https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 127,
@@ -177,7 +215,9 @@
         "image": "https://github.com/user-attachments/assets/55e1b0be-1edd-4f33-9867-cc6d20723059",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 126,
@@ -186,7 +226,9 @@
         "image": "https://github.com/user-attachments/assets/b95825f7-e9a4-4406-9fb6-093d8da1c000",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 125,
@@ -195,7 +237,9 @@
         "image": "https://github.com/user-attachments/assets/a0a2f0af-26d0-445c-ba9d-f2481812e09d",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 124,
@@ -204,7 +248,9 @@
         "image": "https://github.com/user-attachments/assets/f4d68a17-9d54-4cbe-b8b0-d4917463a3fc",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 123,
@@ -213,79 +259,97 @@
         "image": "https://github.com/user-attachments/assets/783be09e-e3a5-4afb-874d-0216fb3709ac",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 122,
         "title": "随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！",
         "prompt_en": "Transform the person in the photo into highly stylized ultra-realistic portrait, with sharp facial features and flawless skin, standing confidently against a bold gradient background. Dramatic, cinematic lighting highlights the facial structure.",
-        "image": "https://github.com/user-attachments/assets/7056e7c4-4ac1-4ad8-b5c2-5c40eab75966",
+        "image": "https://github.com/user-attachments/assets/620542d4-f645-4a70-af13-53557b77b806",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 121,
         "title": "光影参考",
         "prompt_en": "基于参考图片的光影效果，为目标图片重新设计光照方案。包含专业的摄影光效、阴影处理和氛围营造，提升图片的视觉冲击力。",
-        "image": "https://github.com/user-attachments/assets/3ad7ed8b-d6aa-4da1-b8f9-2d4ec8ba7e5c",
+        "image": "https://github.com/user-attachments/assets/e9536f56-1b62-4fc2-b375-9c97544b0171",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 120,
         "title": "使用光影人偶做打光参考",
         "prompt_en": "使用光影人偶作为打光参考，为人物照片重新设计光照效果。根据人偶的光影分布，在真实人物上重现相同的光照氛围。",
-        "image": "https://github.com/user-attachments/assets/23ab8fbe-7c7e-46b5-acd7-0c7bb8a1eda7",
+        "image": "https://github.com/user-attachments/assets/4848153b-72b4-4011-93eb-0c539620639e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 119,
         "title": "生成绘画/渲染过程四宫格",
         "prompt_en": "将图片转换为四宫格绘画过程展示，从草图到最终渲染的完整流程。包含线稿、平涂、阴影和细化四个阶段。",
-        "image": "https://github.com/user-attachments/assets/e3c82b20-2e8f-4027-b83d-b65b32b2a5ad",
+        "image": "https://github.com/user-attachments/assets/9559b463-d192-4f6f-9b1d-889e8cbef73b",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 118,
         "title": "一句话 照片变插画 还附带绘画过程",
         "prompt_en": "为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。展示从照片到插画的完整转换过程。",
-        "image": "https://github.com/user-attachments/assets/8f2af564-8d4a-4da1-857d-e62b40b54c64",
+        "image": "https://github.com/user-attachments/assets/29ac3be3-dce9-45e2-b9d7-329d0f675064",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 117,
         "title": "脸型参考/控制，秒变卡通形象",
         "prompt_en": "基于脸型参考图，将人物转换为Q版卡通形象。保持原有的面部特征，但采用卡通化的表现手法和比例关系。",
-        "image": "https://github.com/user-attachments/assets/3fd97a87-b3c6-4a28-96b6-2c4e7abf9a15",
+        "image": "https://github.com/user-attachments/assets/737bc511-d0d2-42bb-899c-c837b5219174",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 116,
         "title": "一句咒语任何风格变写实",
         "prompt_en": "turn this illustration into realistic version",
-        "image": "https://github.com/user-attachments/assets/57ec51e1-fd5a-4e5a-9ded-0e85b7043fc5",
+        "image": "https://github.com/user-attachments/assets/c96bf7dd-ad3c-44a3-a399-9a6e496a053f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 115,
         "title": "曲面屏贴图",
         "prompt_en": "将指定图片内容贴合到曲面屏幕上，保持图片的完整性和视觉效果。适用于产品展示、广告设计等场景。",
-        "image": "https://github.com/user-attachments/assets/28fdb756-a3a4-4faa-ac59-49f4949c2bb5",
+        "image": "https://github.com/user-attachments/assets/1d3f44a8-6a39-46fa-a700-f4ec73fc67aa",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 114,
@@ -294,123 +358,151 @@
         "image": "https://github.com/user-attachments/assets/e8a0a83b-edc6-4d23-9a41-eda49cf6b4b4",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 113,
         "title": "任意图片（明星/动漫）变挂件挂在自己/女朋友包包上！",
         "prompt_en": "把指定图片变成一个可爱挂件，可以是亚克力材质的扁平钥匙扣或橡胶材质的立体挂件，挂在包包上展示。",
-        "image": "https://github.com/user-attachments/assets/e11c3ad6-d871-48b2-bdf7-ec8b7bdceca0",
+        "image": "https://github.com/user-attachments/assets/ad6ff7e4-6e44-4a8c-9840-6661575ef740",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 112,
         "title": "叠加指定 材质质感/效果",
         "prompt_en": "为基础图片叠加指定的材质质感或视觉效果，如玻璃、金属、布料等不同材质的表现。",
-        "image": "https://github.com/user-attachments/assets/3c9b5cfe-e3ae-4c5a-9e72-fec8dd2c9c64",
+        "image": "https://github.com/user-attachments/assets/c844cba2-8b34-4c4f-9aff-22c43910cc2b",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 111,
         "title": "照片变娃娃",
         "prompt_en": "把人物照片变成一个可爱玩偶，可以是布娃娃、陶瓷娃娃或其他材质的玩偶形式。",
-        "image": "https://github.com/user-attachments/assets/15374566-a3b1-42ea-b5f5-54480cee523f",
+        "image": "https://github.com/user-attachments/assets/c30321fd-5610-474c-a0eb-e2ca55a9fb79",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 110,
         "title": "产品包装贴合",
         "prompt_en": "将设计图案贴合到产品包装上，如易拉罐、盒子、瓶子等，并放在专业的摄影环境中展示。",
-        "image": "https://github.com/user-attachments/assets/0ffe62be-0e7a-46d2-9f75-b047cca5fd76",
+        "image": "https://github.com/user-attachments/assets/6022f5aa-6ec0-4380-91c7-aa2412dfd70f",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 109,
         "title": "把指定图片贴在大阶梯上",
         "prompt_en": "将海报或图片内容贴在大型阶梯的立面上，创造出大型户外广告的视觉效果。",
-        "image": "https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639",
+        "image": "https://github.com/user-attachments/assets/e56fb2dd-6327-42f6-a810-71f506acae26",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 108,
         "title": "虚拟试妆？！化指定妆面",
         "prompt_en": "为人物化上指定的妆容效果，保持原有的姿势和表情，只改变妆面风格。",
-        "image": "https://github.com/user-attachments/assets/55e1b0be-1edd-4f33-9867-cc6d20723059",
+        "image": "https://github.com/user-attachments/assets/84734fcb-7bf8-4447-81d9-996e99c662db",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 107,
         "title": "妆面分析 + 优化建议！",
         "prompt_en": "Analyze this image. Use red pen to denote where you can improve the makeup and provide optimization suggestions.",
-        "image": "https://github.com/user-attachments/assets/9e3b5ff7-84cc-4e9b-aacc-4f4b00b3a3d5",
+        "image": "https://github.com/user-attachments/assets/8194cd70-2f4a-4825-a662-a74d886cb5bd",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 106,
         "title": "工业设计 手绘 秒变 实景效果",
         "prompt_en": "将工业设计手绘图转换为真实的产品效果图，包含材质、光影和环境设置。",
-        "image": "https://github.com/user-attachments/assets/2a5d4c6f-7a7b-4e20-84ac-19f9db0ff8b2",
+        "image": "https://github.com/user-attachments/assets/bdb4ef91-225f-474b-a924-4754153df404",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 105,
         "title": "工业设计套图：马克笔、水彩、分析图、渲染图",
         "prompt_en": "将产品设计转换为不同表现形式：马克笔手绘效果、水彩画风格、技术分析图和3D渲染图。",
-        "image": "https://github.com/user-attachments/assets/5bb8a79b-9c7e-48b7-97cf-8c89e1b3a8f6",
+        "image": "https://github.com/user-attachments/assets/bdb4ef91-225f-474b-a924-4754153df404",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {"count": 1}
+        "imageRequirement": {
+            "count": 1
+        }
     },
     {
         "id": 104,
         "title": "表情准确参考！动漫、真人都没问题！",
         "prompt_en": "基于参考图片的表情，为目标人物生成相同的表情效果。适用于动漫角色和真人，保持表情的准确性和自然性。",
-        "image": "https://github.com/user-attachments/assets/a19ad2a5-84d8-471a-beb3-b1caa9dc5b59",
+        "image": "https://github.com/user-attachments/assets/3710652d-6adc-4837-bb4b-02ae3d360a8e",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 103,
         "title": "动物拟人表情",
         "prompt_en": "将动物的表情转换为人类的表情，或将人类的表情应用到动物身上，创造有趣的拟人化效果。",
-        "image": "https://github.com/user-attachments/assets/c8f4b1f4-9aa6-4f89-b1d2-18b5cb75db14",
+        "image": "https://github.com/user-attachments/assets/9981b0d9-abe9-4ad3-9ba6-114756bd65bf",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 102,
         "title": "绝美卡片设计",
         "prompt_en": "按照名片设计稿的构图和质感，为指定人物生成精美的个性化卡片设计，包含卡通形象和个人信息。",
-        "image": "https://github.com/user-attachments/assets/a19ad2a5-84d8-471a-beb3-b1caa9dc5b59",
+        "image": "https://github.com/user-attachments/assets/fbd5739f-0082-4af0-acfd-0811d16be22e",
         "generationType": "image-to-image",
         "promptType": "template",
-        "imageRequirement": {"count": 2}
+        "imageRequirement": {
+            "count": 2
+        }
     },
     {
         "id": 101,
         "title": "多人物插画集",
         "prompt_en": "将多个人物都变成黑白极简风插画，人物要可爱并保持各自特点，为每个人物配上合适的小道具，线条优美，并在一张图里展示。",
-        "image": "https://github.com/user-attachments/assets/c8f4b1f4-9aa6-4f89-b1d2-18b5cb75db14",
+        "image": "https://github.com/user-attachments/assets/176078dd-04f6-421b-b7f9-4507fb44b2c2",
         "generationType": "image-to-image",
         "promptType": "fixed",
-        "imageRequirement": {"count": 4}
+        "imageRequirement": {
+            "count": 4
+        }
     }
 ]
