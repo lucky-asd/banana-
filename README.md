@@ -1,12 +1,12 @@
 # Gemini 玩法大全
 
-这个项目整合了多种Gemini AI图像生成的创意玩法，包含了从基础的文本生成图像到复杂的图像到图像转换等多种功能。
+这个项目整合了多种Gemini AI图像生成的创意玩法，包含146种不同的创意技法，涵盖从基础的文本生成图像到复杂的图像到图像转换等多种功能。
 
 ## 📁 项目结构
 
 - `gameplays.json` - 原始的100种创意玩法
-- `gameplays_new.json` - 新增的50种创意玩法（基于nano-banana项目）
-- `gameplays_total.json` - 完整的150种创意玩法合集
+- `gameplays_new.json` - 新增的46种创意玩法（基于nano-banana项目）
+- `gameplays_total.json` - 完整的146种创意玩法合集
 - `gameplays_backup.json` - 原始数据的备份文件
 - `README.md` - 项目说明文档
 
@@ -109,7 +109,7 @@
 
 ## 📝 更新日志
 
-- **v2.0** - 新增46种nano-banana创意玩法
+- **v2.0** - 新增46种nano-banana创意玩法（总计146种）
 - **v1.0** - 基础100种玩法集合
 
 ## 🤝 贡献
