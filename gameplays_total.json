@@ -1187,10 +1187,10 @@
     {
         "id": 105,
         "title": "连续编辑 + 物体组合 + 背景设计",
-        "prompt_en": "女孩转过身来摆出一个可爱帅气的pose，背景音乐也是y2k风格",
+        "prompt_en": "图一人物背上图二 logo 的斜挎包",
         "image": "https://github.com/user-attachments/assets/8ce14b2a-69eb-45e5-8a61-3a78ba42c840",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
@@ -1220,10 +1220,10 @@
     {
         "id": 108,
         "title": "商品广告短片：指定人物 + 商品",
-        "prompt_en": "模特展示香水，配上优美的音乐｜The model is showcasing the perfume with beautiful music",
+        "prompt_en": "模特拿着香水｜The model is holding a perfume",
         "image": "https://github.com/user-attachments/assets/0fe32335-ace1-4333-94e3-389c344daab4",
         "generationType": "image-to-image",
-        "promptType": "template",
+        "promptType": "fixed",
         "imageRequirement": {
             "count": 1
         }
@@ -1242,7 +1242,7 @@
     {
         "id": 110,
         "title": "0️⃣ 图转线稿 + 色卡上色",
-        "prompt_en": "准确使用色卡为图二人物上色",
+        "prompt_en": "变成线稿手绘图",
         "image": "https://github.com/user-attachments/assets/6052b039-48cd-41e7-afa8-71a297a33b1f",
         "generationType": "image-to-image",
         "promptType": "template",
