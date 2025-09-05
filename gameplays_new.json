@@ -2,7 +2,7 @@
     {
         "id": 101,
         "title": "出圈/火的用法：图片变手办/手办视频",
-        "prompt_en": "生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。",
+        "prompt_en": "turn this photo into a character figure. Behind it, place a box with the character’s image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible",
         "image": "https://github.com/user-attachments/assets/6440b1eb-4ecb-4d77-8dba-63c6d61c1ad3",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -13,7 +13,7 @@
     {
         "id": 102,
         "title": "名人/指定人物（上传图片）超写实照片级生成",
-        "prompt_en": "高分辨率的专业摄影作品，采用编辑类和艺术摄影风格。照片中呈现一个超写实的人物形象，根据提供的参考图片生成，保持精确的面部特征和表情。使用专业摄影设备，柔和的定向光线，精确的细节还原，肤色自然真实。背景为简约的中性色调，突出人物主体。",
+        "prompt_en": "画面采用中景近乎半身的构图，镜头与人物几乎平视，但透视感强烈，但因为主体微微前倾，视觉上产生一种略带俯视感的压缩效果，让观者与模特之间的距离显得亲密而直接。人物微微抬头冲向镜头，有种拽姐的感觉。闪光灯从正面偏左上方打来，制造出硬朗的高光与深重阴影——墨镜镜片上有明显高光反射，人物后方墙面出现淡淡的投影，整体呈现典型的“直闪”质感：颗粒感轻微，可见胶片风格或高感光度数码拍摄的粗粝纹理。人物面部稍稍有点过度曝光\n\n色彩基调以低饱和的中性色为主：黑色的宽肩丝绒西装外套占据画面最大面积，面料似乎是丝绒，带有细腻的绒面纹路；内搭的黑色丝绸吊带（搬运不标出处死妈）。模特下装是黑色超短裙和薄透质感的连裤袜。背景左侧堆放的墨绿色与咖色棒球帽、右侧叠放的亮蓝色夹克及黑色头盔等杂物，在柔和阴影中提供了点缀色，同时强调了拍摄的后台或休息室氛围。\n\n人物【XXX】动作及神态具有强烈的街头时尚感：她双膝交叠坐在台面边缘，双手随意撑在身侧，身体前倾，给人一种随性却掌控全场的姿态。面部表情淡漠而自信——厚涂的裸色哑光唇膏、挺拔的鼻梁和高光额头在镜片下仍然清晰；宽大的方形黑色太阳镜遮住了双眼，却因为镜框外缘锋利的斜切角度，进一步强化了“冷面”气场。发型为高束的高马尾，碎发自然散落，在硬光照射下呈现金棕色高光，增加了几分随意的性感。\n\n整体观感是一幅带有九十年代街拍影像感的时装速写：粗颗粒、直闪、低饱和配色与夸张的廓形外套共同营造出怀旧却前卫的潮流态度。右下角带有相机时间戳：2001 05 14",
         "image": "https://github.com/user-attachments/assets/0a0fd607-66c4-4993-bd10-fe3f1b734ef0",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -24,7 +24,7 @@
     {
         "id": 103,
         "title": "指定人物短视频：人像特征保持 + 切换视角 + veo3 首尾帧",
-        "prompt_en": "Based on the uploaded photo, create a dynamic portrait maintaining all the original facial features and characteristics. The image should capture a professional studio lighting setup with cinematic quality, showing slight head movement or pose variation while preserving the person's identity completely.",
+        "prompt_en": "change the Camera anglo a high-angled selfie perspective looking down at the woman, while preserving her exact facial features, expression, and clothing, Maintain the same living room interior background with the sofa, natural lighting, and overall photographic composition and style.",
         "image": "https://github.com/user-attachments/assets/271b390b-d9a9-4292-bb17-8602f73352f2",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -34,9 +34,20 @@
     },
     {
         "id": 104,
-        "title": "图片转折纸玩具",
-        "prompt_en": "将人物照片转换为精美的折纸玩具效果，呈现出纸张的清脆折痕和几何化的设计美感。保持人物的基本特征，同时体现折纸艺术的简约优雅。",
+        "title": "建筑图转模型/建模",
+        "prompt_en": "convert this photo into a architecture model. Behind the model, there should be a cardboard box with an image of the architecture from the photo on it. There should also be a computer, with the content on the computer screen showing the Blender modeling process of the figurine. In front of the cardboard box, place a cardstock and put the architecture model from the photo I provided on it. I hope the PVC material can be clearly presented. It would be even better if the background is indoors.",
         "image": "https://github.com/user-attachments/assets/f78a58fe-87c3-4473-b929-9c1db31b205e",
+        "generationType": "image-to-image",
+        "promptType": "template",
+        "imageRequirement": {
+            "count": 1
+        }
+    },
+    {
+        "id": 105,
+        "title": "连续编辑 + 物体组合 + 背景设计",
+        "prompt_en": "女孩转过身来摆出一个可爱帅气的pose，背景音乐也是y2k风格",
+        "image": "https://github.com/user-attachments/assets/8ce14b2a-69eb-45e5-8a61-3a78ba42c840",
         "generationType": "image-to-image",
         "promptType": "fixed",
         "imageRequirement": {
@@ -44,31 +55,20 @@
         }
     },
     {
-        "id": 105,
-        "title": "图片转线稿",
-        "prompt_en": "将上传的图片转换为干净的线稿风格，保留主要的轮廓和结构线条，去除色彩和阴影，呈现出手绘线稿的艺术效果。",
-        "image": "https://github.com/user-attachments/assets/8ce14b2a-69eb-45e5-8a61-3a78ba42c840",
+        "id": 106,
+        "title": "高清修复",
+        "prompt_en": "Enhance this image to high resolution",
+        "image": "https://github.com/user-attachments/assets/e05b8092-b2ce-4f20-b9d1-a40a28c1da6f",
         "generationType": "image-to-image",
-        "promptType": "template",
+        "promptType": "fixed",
         "imageRequirement": {
             "count": 1
         }
     },
     {
-        "id": 106,
-        "title": "面部表情完美复制！",
-        "prompt_en": "参考图二人物的面部表情，将其精确复制到图一人物脸上，保持图一人物的基本特征和身份，只改变表情。",
-        "image": "https://github.com/user-attachments/assets/e05b8092-b2ce-4f20-b9d1-a40a28c1da6f",
-        "generationType": "image-to-image",
-        "promptType": "template",
-        "imageRequirement": {
-            "count": 2
-        }
-    },
-    {
         "id": 107,
-        "title": "照片转3D打印模型",
-        "prompt_en": "将人物照片转换为适合3D打印的模型设计，展现出立体雕塑的质感和细节，适合制作成实体模型。",
+        "title": "物体组合/版本对比",
+        "prompt_en": "把它们组合起来",
         "image": "https://github.com/user-attachments/assets/746a09a7-fe29-40f9-8d02-815e6424f310",
         "generationType": "image-to-image",
         "promptType": "fixed",
@@ -78,8 +78,8 @@
     },
     {
         "id": 108,
-        "title": "生成相似度 99%的真人头部",
-        "prompt_en": "基于上传的人物照片，生成一个相似度极高的真人头部特写，保持所有面部特征的精确度和自然表情。",
+        "title": "商品广告短片：指定人物 + 商品",
+        "prompt_en": "模特展示香水，配上优美的音乐｜The model is showcasing the perfume with beautiful music",
         "image": "https://github.com/user-attachments/assets/0fe32335-ace1-4333-94e3-389c344daab4",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -89,8 +89,8 @@
     },
     {
         "id": 109,
-        "title": "图转线稿 + 色卡上色",
-        "prompt_en": "先将上传图片转换为线稿，然后根据指定的色彩方案进行上色，创造出既保持原图结构又具有新色彩风格的作品。",
+        "title": "人群中分离指定模糊人物 + 高清生成：",
+        "prompt_en": "Separate the person inside the green box and turn it into a high-definition single-person photo",
         "image": "https://github.com/user-attachments/assets/5e9afd1c-82ca-4e70-a90d-23bed8794531",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -100,8 +100,8 @@
     },
     {
         "id": 110,
-        "title": "一键换脸",
-        "prompt_en": "将图一人物的脸部特征精确替换到图二人物的头部，保持自然的光影和表情过渡。",
+        "title": "0️⃣ 图转线稿 + 色卡上色",
+        "prompt_en": "准确使用色卡为图二人物上色",
         "image": "https://github.com/user-attachments/assets/6052b039-48cd-41e7-afa8-71a297a33b1f",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -111,42 +111,9 @@
     },
     {
         "id": 111,
-        "title": "一键换身体",
-        "prompt_en": "保持图一人物的头部特征，将其与图二人物的身体进行无缝融合，创造出自然协调的整体效果。",
+        "title": "1️⃣ 一句话生成一套角色设定/故事书",
+        "prompt_en": "为我生成人物的角色设定（Character Design）\n\n比例设定（不同身高对比、头身比等）\n\n三视图（正面、侧面、背面）\n\n表情设定（Expression Sheet） \n\n动作设定（Pose Sheet） → 各种常见姿势\n\n服装设定（Costume Design）",
         "image": "https://github.com/user-attachments/assets/0b1e156d-c461-42cd-9c11-a23643475993",
-        "generationType": "image-to-image",
-        "promptType": "template",
-        "imageRequirement": {
-            "count": 2
-        }
-    },
-    {
-        "id": 112,
-        "title": "修复模糊人脸",
-        "prompt_en": "对上传的模糊或质量较差的人脸照片进行智能修复，提升清晰度，恢复面部细节和自然质感。",
-        "image": "https://github.com/user-attachments/assets/fa56c1ed-7b9c-4092-8c23-26ac18c65014",
-        "generationType": "image-to-image",
-        "promptType": "template",
-        "imageRequirement": {
-            "count": 1
-        }
-    },
-    {
-        "id": 113,
-        "title": "照片变毛绒玩具",
-        "prompt_en": "将人物照片转换为可爱的毛绒玩具效果，呈现出柔软蓬松的质感和温馨可爱的造型。",
-        "image": "https://github.com/user-attachments/assets/7450b369-c961-423e-9121-b6beb881b3c6",
-        "generationType": "image-to-image",
-        "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
-    },
-    {
-        "id": 114,
-        "title": "一句话生成一套角色设定/故事书",
-        "prompt_en": "基于一句话描述，生成完整的角色设定和故事书风格的插画。包含角色的外观设计、性格特点、背景故事等元素，呈现为精美的绘本页面效果。",
-        "image": "https://github.com/user-attachments/assets/18299b01-efb6-43fb-8b44-a6c2be0464b4",
         "generationType": "text-to-image",
         "promptType": "template",
         "imageRequirement": {
@@ -154,10 +121,10 @@
         }
     },
     {
-        "id": 115,
-        "title": "透视3D出屏效果",
-        "prompt_en": "创造立体的透视效果，让图像中的元素看起来从屏幕中突出或延伸出来，营造强烈的3D视觉冲击。",
-        "image": "https://github.com/user-attachments/assets/6d6f82ff-f18f-40f8-b16d-b6d2c03bae8e",
+        "id": 112,
+        "title": "2️⃣ 虚实结合/跨次元：插画人物探店",
+        "prompt_en": "在图中加上一对情侣坐在座位上开心的喝咖啡和交谈，人物都是粗线稿可爱插画风格",
+        "image": "https://github.com/user-attachments/assets/fa56c1ed-7b9c-4092-8c23-26ac18c65014",
         "generationType": "image-to-image",
         "promptType": "fixed",
         "imageRequirement": {
@@ -165,10 +132,21 @@
         }
     },
     {
-        "id": 116,
-        "title": "多人物角色一致性保持",
-        "prompt_en": "在多人物场景中保持每个角色的一致性特征，确保在不同场景或动作中人物形象保持统一和可识别性。",
-        "image": "https://github.com/user-attachments/assets/c1a845af-88d4-4510-80e8-6f19c6407718",
+        "id": 113,
+        "title": "3️⃣ 指定人物 + 设计 实景体验/效果图",
+        "prompt_en": "把人物换成图二人物，沙发换成图三沙发，配色换成橙色，文字换成“Z”",
+        "image": "https://github.com/user-attachments/assets/7450b369-c961-423e-9121-b6beb881b3c6",
+        "generationType": "image-to-image",
+        "promptType": "template",
+        "imageRequirement": {
+            "count": 2
+        }
+    },
+    {
+        "id": 114,
+        "title": "4️⃣ 精准替换视频人物",
+        "prompt_en": "把左边第二位人物换成希斯莱杰小丑/上传照片人物",
+        "image": "https://github.com/user-attachments/assets/18299b01-efb6-43fb-8b44-a6c2be0464b4",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
@@ -176,9 +154,31 @@
         }
     },
     {
+        "id": 115,
+        "title": "5️⃣ 动漫转真人（接近 1:1 还原）",
+        "prompt_en": "Generate a highly detailed photo of a girl cosplaying this illustration, at Comiket. Exactly replicate the same pose, body posture, hand gestures, facial expression, and camera framing as in the original illustration. Keep the same angle, perspective, and composition, without any deviation",
+        "image": "https://github.com/user-attachments/assets/6d6f82ff-f18f-40f8-b16d-b6d2c03bae8e",
+        "generationType": "image-to-image",
+        "promptType": "template",
+        "imageRequirement": {
+            "count": 1
+        }
+    },
+    {
+        "id": 116,
+        "title": "6️⃣ 高质量摄影：指定人物 + 高质量姿势参考",
+        "prompt_en": "图一人物换成图二姿势，专业摄影棚拍摄",
+        "image": "https://github.com/user-attachments/assets/c1a845af-88d4-4510-80e8-6f19c6407718",
+        "generationType": "image-to-image",
+        "promptType": "template",
+        "imageRequirement": {
+            "count": 2
+        }
+    },
+    {
         "id": 117,
-        "title": "个性化房间设计 根据照片画风定制",
-        "prompt_en": "基于上传的照片风格和色彩偏好，设计一个个性化的房间装修方案，体现独特的美学品味。",
+        "title": "7️⃣ 图片转人偶玩具",
+        "prompt_en": "Transform the the person in the photo into an action figure, styled after [CHARACTER_NAME] from [SOURCE / CONTEXT]. \nNext to the figure, display the accessories including [ITEM_1], [ITEM_2], and [ITEM_3]. \nOn the top of the toy box, write \"[BOX_LABEL_TOP]\", and underneath it, \"[BOX_LABEL_BOTTOM]\". \nPlace the box in a [BACKGROUND_SETTING] environment. \nVisualize this in a highly realistic way with attention to fine details.",
         "image": "https://github.com/user-attachments/assets/15374566-a3b1-42ea-b5f5-54480cee523f",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -188,30 +188,30 @@
     },
     {
         "id": 118,
-        "title": "水晶球故事场景",
-        "prompt_en": "在透明的水晶球中创造完整的微缩故事场景，展现梦幻美丽的微观世界。",
+        "title": "8️⃣ 图片转 Funko Pop 公仔",
+        "prompt_en": "Transform the person in the photo into the style of a Funko Pop figure packaging box, presented in an isometric perspective. Label the packaging with the title 'ZHOGUE'. Inside the box, showcase the figure based on the person in the photo, accompanied by their essential items (such as cosmetics, bags, or others). Next to the box, also display the actual figure itself outside of the packaging, rendered in a realistic and lifelike style.",
         "image": "https://github.com/user-attachments/assets/0ffe62be-0e7a-46d2-9f75-b047cca5fd76",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
     },
     {
         "id": 119,
-        "title": "年龄变化",
-        "prompt_en": "展示人物在不同年龄阶段的变化过程，从年轻到年老的自然过渡，保持面部特征的连续性。",
+        "title": "9️⃣ 图片转乐高",
+        "prompt_en": "Transform the person in the photo into the style of a LEGO minifigure packaging box, presented in an isometric perspective. Label the packaging with the title 'ZHOGUE'. Inside the box, showcase the LEGO minifigure based on the person in the photo, accompanied by their essential items (such as cosmetics, bags, or others) as LEGO accessories. Next to the box, also display the actual LEGO minifigure itself outside of the packaging, rendered in a realistic and lifelike style.",
         "image": "https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
     },
     {
         "id": 120,
-        "title": "高清修复",
-        "prompt_en": "对上传的老旧或损坏照片进行智能修复，包括去除划痕、污渍、褪色等问题。提升照片的清晰度和色彩饱和度，恢复照片的原始质感。如果是黑白照片，可以进行智能上色处理。",
+        "title": "0️⃣ 图片转针织玩偶",
+        "prompt_en": "A close-up, professionally composed photograph showing a handmade crocheted yarn doll being gently held in both hands. The doll has a rounded shape and an adorable chibi-style appearance, with vivid color contrasts and rich details. The hands holding the doll appear natural and tender, with clearly visible finger posture, and the skin texture and light-shadow transitions look soft and realistic, conveying a warm, tangible touch. The background is slightly blurred, depicting an indoor setting with a warm wooden tabletop and natural light streaming in through a window, creating a cozy and intimate atmosphere. The overall image conveys a sense of exquisite craftsmanship and a cherished, heartwarming emotion.",
         "image": "https://github.com/user-attachments/assets/55e1b0be-1edd-4f33-9867-cc6d20723059",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -221,8 +221,8 @@
     },
     {
         "id": 121,
-        "title": "物体组合/版本对比",
-        "prompt_en": "创建多个物体的组合场景，或生成同一概念的不同版本进行对比展示。可以是不同风格、颜色、材质或设计方案的对比，帮助用户选择最佳方案。",
+        "title": "1️⃣ 图片转芭比娃娃",
+        "prompt_en": "Transform the person in the photo into the style of a Barbie doll packaging box, presented in an isometric perspective. Label the packaging with the title 'ZHOGUE'. Inside the box, showcase the Barbie doll version of the person from the photo, accompanied by their essential items (such as cosmetics, bags, or others) designed as stylish Barbie accessories. Next to the box, also display the actual Barbie doll itself outside of the packaging, rendered in a realistic and lifelike style, resembling official Barbie promotional renders",
         "image": "https://github.com/user-attachments/assets/b95825f7-e9a4-4406-9fb6-093d8da1c000",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -232,8 +232,8 @@
     },
     {
         "id": 122,
-        "title": "连续编辑 + 物体组合 + 背景设计",
-        "prompt_en": "进行连续的图像编辑，包括物体组合和背景设计。将多个元素巧妙融合，创造出和谐统一的画面效果。注重色彩搭配、光影关系和整体构图的平衡性。",
+        "title": "2️⃣ 万物变高达",
+        "prompt_en": "Transform the person in the photo into the style of a Gundam model kit packaging box, presented in an isometric perspective. Label the packaging with the title 'ZHOGUE'. Inside the box, showcase a Gundam-style mecha version of the person from the photo, accompanied by their essential items (such as cosmetics, bags, or others) redesigned as futuristic mecha accessories. The packaging should resemble authentic Gunpla boxes, with technical illustrations, instruction-manual style details, and sci-fi typography. Next to the box, also display the actual Gundam-style mecha figure itself outside of the packaging, rendered in a realistic and lifelike style, similar to official Bandai promotional renders.",
         "image": "https://github.com/user-attachments/assets/a0a2f0af-26d0-445c-ba9d-f2481812e09d",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -243,8 +243,8 @@
     },
     {
         "id": 123,
-        "title": "图片转人偶玩具",
-        "prompt_en": "将人物照片转换为可爱的人偶玩具效果，包括布娃娃、塑料玩具、木偶等不同材质和风格。保持人物的基本特征，同时增加玩具的可爱和趣味性。",
+        "title": "3️⃣ 赛博生娃？！两张人脸生成孩子脸",
+        "prompt_en": "生成图中两人物所生孩子的样子，专业摄影",
         "image": "https://github.com/user-attachments/assets/f4d68a17-9d54-4cbe-b8b0-d4917463a3fc",
         "generationType": "image-to-image",
         "promptType": "fixed",
@@ -254,86 +254,75 @@
     },
     {
         "id": 124,
-        "title": "高质量摄影：指定人物 + 高质量姿势参考",
-        "prompt_en": "图一人物换成图二姿势，专业摄影棚拍摄。",
+        "title": "4️⃣ 产品设计图转真实效果/渲染",
+        "prompt_en": "turn this illustration of a perfume into a realistic version, Frosted glass bottle with a marble cap",
         "image": "https://github.com/user-attachments/assets/783be09e-e3a5-4afb-874d-0216fb3709ac",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
-            "count": 2
+            "count": 1
         }
     },
     {
         "id": 125,
-        "title": "图片转乐高",
-        "prompt_en": "将人物或场景转换为乐高积木风格，包含乐高特有的方形像素化效果和鲜艳的色彩搭配。可以是乐高人仔、乐高建筑或乐高场景等不同形式。",
+        "title": "5️⃣ 随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！",
+        "prompt_en": "Transform the person in the photo into highly stylized ultra-realistic portrait, with sharp facial features and flawless fair skin, standing confidently against a bold green gradient background. Dramatic, cinematic lighting highlights her facial structure, evoking the look of a luxury fashion magazine cover. Editorial photography style, high-detail, 4K resolution, symmetrical composition, minimalistic background",
         "image": "https://github.com/user-attachments/assets/620542d4-f645-4a70-af13-53557b77b806",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
     },
     {
         "id": 126,
-        "title": "图片转针织玩偶",
-        "prompt_en": "一张特写、构图专业的照片，展示一个手工钩织的毛线玩偶被双手轻柔地托着。玩偶造型圆润，基于上传图片人物的可爱Q版形象，色彩对比鲜明，细节丰富。",
+        "title": "6️⃣ 光影参考",
+        "prompt_en": "图一换成图二打光，专业摄影",
         "image": "https://github.com/user-attachments/assets/e9536f56-1b62-4fc2-b375-9c97544b0171",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
-            "count": 1
+            "count": 2
         }
     },
     {
         "id": 127,
-        "title": "万物变高达",
-        "prompt_en": "Transform the person in the photo into the style of a Gundam model kit packaging box, presented in an isometric perspective.",
+        "title": "7️⃣ 使用光影人偶做打光参考",
+        "prompt_en": "图一人物变成图二光影，深色为暗",
         "image": "https://github.com/user-attachments/assets/4848153b-72b4-4011-93eb-0c539620639e",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
-            "count": 1
+            "count": 2
         }
     },
     {
         "id": 128,
-        "title": "赛博生娃？！两张人脸生成孩子脸",
-        "prompt_en": "生成图中两人物所生孩子的样子，专业摄影",
+        "title": "8️⃣ 生成绘画/渲染过程四宫格",
+        "prompt_en": "把图一变成图二那样的四宫格，从草图逐渐到上色渲染",
         "image": "https://github.com/user-attachments/assets/9559b463-d192-4f6f-9b1d-889e8cbef73b",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 2
         }
     },
     {
         "id": 129,
-        "title": "产品设计图转真实效果/渲染",
-        "prompt_en": "turn this illustration of a perfume into a realistic version, Frosted glass bottle with a marble cap",
+        "title": "9️⃣ 一句话 照片变插画 还附带绘画过程",
+        "prompt_en": "为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字",
         "image": "https://github.com/user-attachments/assets/29ac3be3-dce9-45e2-b9d7-329d0f675064",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
     },
     {
         "id": 130,
-        "title": "随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！",
-        "prompt_en": "Transform the person in the photo into highly stylized ultra-realistic portrait, with sharp facial features and flawless fair skin, standing confidently against a bold green gradient background. Dramatic, cinematic lighting highlights her facial structure, evoking the look of a luxury fashion magazine cover. Editorial photography style, high-detail, 4K resolution, symmetrical composition, minimalistic background",
+        "title": "0️⃣ 脸型参考/控制，秒变卡通形象",
+        "prompt_en": "图一人物按照图二的脸型设计为q版形象",
         "image": "https://github.com/user-attachments/assets/737bc511-d0d2-42bb-899c-c837b5219174",
-        "generationType": "image-to-image",
-        "promptType": "fixed",
-        "imageRequirement": {
-            "count": 1
-        }
-    },
-    {
-        "id": 131,
-        "title": "光影参考",
-        "prompt_en": "图一换成图二打光，专业摄影",
-        "image": "https://github.com/user-attachments/assets/c96bf7dd-ad3c-44a3-a399-9a6e496a053f",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
@@ -341,9 +330,20 @@
         }
     },
     {
+        "id": 131,
+        "title": "1️⃣ 一句咒语任何风格变写实",
+        "prompt_en": "turn this illustration into realistic version",
+        "image": "https://github.com/user-attachments/assets/c96bf7dd-ad3c-44a3-a399-9a6e496a053f",
+        "generationType": "image-to-image",
+        "promptType": "fixed",
+        "imageRequirement": {
+            "count": 1
+        }
+    },
+    {
         "id": 132,
-        "title": "使用光影人偶做打光参考",
-        "prompt_en": "图一人物变成图二光影，深色为暗",
+        "title": "2️⃣ 曲面屏贴图",
+        "prompt_en": "把图一放在图二大屏幕上，撑满整个屏幕",
         "image": "https://github.com/user-attachments/assets/1d3f44a8-6a39-46fa-a700-f4ec73fc67aa",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -353,20 +353,9 @@
     },
     {
         "id": 133,
-        "title": "生成绘画/渲染过程四宫格",
-        "prompt_en": "把图一变成图二那样的四宫格，从草图逐渐到上色渲染",
+        "title": "3️⃣ 直接为图片中的曲面大屏生成 指定的 “裸眼 3D” 内容",
+        "prompt_en": "为大屏幕上换上裸眼 3D 猫猫",
         "image": "https://github.com/user-attachments/assets/7f244b25-02e5-479e-9f5f-2f86a449e3de",
-        "generationType": "image-to-image",
-        "promptType": "template",
-        "imageRequirement": {
-            "count": 2
-        }
-    },
-    {
-        "id": 134,
-        "title": "一句话 照片变插画 还附带绘画过程",
-        "prompt_en": "为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字",
-        "image": "https://github.com/user-attachments/assets/ad6ff7e4-6e44-4a8c-9840-6661575ef740",
         "generationType": "image-to-image",
         "promptType": "fixed",
         "imageRequirement": {
@@ -374,9 +363,20 @@
         }
     },
     {
+        "id": 134,
+        "title": "4️⃣ 任意图片（明星/动漫）变挂件挂在自己/女朋友包包上！",
+        "prompt_en": "把这张照片变成一个可爱挂件/亚克力材质的扁平钥匙扣/橡胶材质的扁平钥匙扣 挂在 lv 包包/图二照片的包包上",
+        "image": "https://github.com/user-attachments/assets/ad6ff7e4-6e44-4a8c-9840-6661575ef740",
+        "generationType": "image-to-image",
+        "promptType": "template",
+        "imageRequirement": {
+            "count": 2
+        }
+    },
+    {
         "id": 135,
-        "title": "脸型参考/控制，秒变卡通形象",
-        "prompt_en": "图一人物按照图二的脸型设计为q版形象",
+        "title": "5️⃣ 叠加指定 材质质感/效果",
+        "prompt_en": "为图一照片叠加上图二玻璃的效果",
         "image": "https://github.com/user-attachments/assets/c844cba2-8b34-4c4f-9aff-22c43910cc2b",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -386,19 +386,19 @@
     },
     {
         "id": 136,
-        "title": "一句咒语任何风格变写实",
-        "prompt_en": "turn this illustration into realistic version",
+        "title": "6️⃣ 照片变娃娃",
+        "prompt_en": "把这张照片变成一个可爱玩偶",
         "image": "https://github.com/user-attachments/assets/c30321fd-5610-474c-a0eb-e2ca55a9fb79",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
     },
     {
         "id": 137,
-        "title": "曲面屏贴图",
-        "prompt_en": "把图一放在图二大屏幕上，撑满整个屏幕",
+        "title": "7️⃣ 产品包装贴合",
+        "prompt_en": "把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影",
         "image": "https://github.com/user-attachments/assets/6022f5aa-6ec0-4380-91c7-aa2412dfd70f",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -408,19 +408,19 @@
     },
     {
         "id": 138,
-        "title": "直接为图片中的曲面大屏生成指定的\"裸眼3D\"内容",
-        "prompt_en": "为大屏幕上换上裸眼 3D 猫猫",
+        "title": "8️⃣ 把指定图片贴在大阶梯上",
+        "prompt_en": "把图一海报贴在图二的大阶梯上",
         "image": "https://github.com/user-attachments/assets/e56fb2dd-6327-42f6-a810-71f506acae26",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
-            "count": 1
+            "count": 2
         }
     },
     {
         "id": 139,
-        "title": "任意图片（明星/动漫）变挂件挂在自己/女朋友包包上！",
-        "prompt_en": "把这张照片变成一个可爱挂件/亚克力材质的扁平钥匙扣/橡胶材质的扁平钥匙扣 挂在 lv 包包/图二照片的包包上",
+        "title": "9️⃣ 虚拟试妆？！化指定妆面",
+        "prompt_en": "为图一人物化上图二的妆，还保持图一的姿势",
         "image": "https://github.com/user-attachments/assets/84734fcb-7bf8-4447-81d9-996e99c662db",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -430,20 +430,31 @@
     },
     {
         "id": 140,
-        "title": "叠加指定 材质质感/效果",
-        "prompt_en": "为图一照片叠加上图二玻璃的效果",
+        "title": "0️⃣ 妆面分析 + 优化建议！",
+        "prompt_en": "Analyze this image. Use red pen to denote where you can improve",
         "image": "https://github.com/user-attachments/assets/8194cd70-2f4a-4825-a662-a74d886cb5bd",
         "generationType": "image-to-image",
         "promptType": "template",
         "imageRequirement": {
-            "count": 2
+            "count": 1
         }
     },
     {
         "id": 141,
-        "title": "照片变娃娃",
-        "prompt_en": "把这张照片变成一个可爱玩偶",
+        "title": "1️⃣ 工业设计 手绘 秒变 实景效果",
+        "prompt_en": "turn this photo into realistic version, with light brown leather, put into a Minimalism museum",
         "image": "https://github.com/user-attachments/assets/6ef7c630-2dc1-4c17-bfce-673afa4eb6be",
+        "generationType": "image-to-image",
+        "promptType": "template",
+        "imageRequirement": {
+            "count": 1
+        }
+    },
+    {
+        "id": 142,
+        "title": "2️⃣ 工业设计套图：马克笔、水彩、分析图、渲染图",
+        "prompt_en": "turn this photo into 马克笔画/水彩画/diagram",
+        "image": "https://github.com/user-attachments/assets/bdb4ef91-225f-474b-a924-4754153df404",
         "generationType": "image-to-image",
         "promptType": "fixed",
         "imageRequirement": {
@@ -451,20 +462,9 @@
         }
     },
     {
-        "id": 142,
-        "title": "产品包装贴合",
-        "prompt_en": "把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影",
-        "image": "https://github.com/user-attachments/assets/bdb4ef91-225f-474b-a924-4754153df404",
-        "generationType": "image-to-image",
-        "promptType": "template",
-        "imageRequirement": {
-            "count": 2
-        }
-    },
-    {
         "id": 143,
-        "title": "把指定图片贴在大阶梯上",
-        "prompt_en": "把图一海报贴在图二的大阶梯上",
+        "title": "3️⃣ 表情准确参考！动漫、真人都没问题！",
+        "prompt_en": "图一人物参考/换成图二人物的表情",
         "image": "https://github.com/user-attachments/assets/3710652d-6adc-4837-bb4b-02ae3d360a8e",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -474,8 +474,8 @@
     },
     {
         "id": 144,
-        "title": "虚拟试妆？！化指定妆面",
-        "prompt_en": "为图一人物化上图二的妆，还保持图一的姿势",
+        "title": "4️⃣ 动物拟人表情",
+        "prompt_en": "把图二猫咪变成图一人物那样的表情",
         "image": "https://github.com/user-attachments/assets/9981b0d9-abe9-4ad3-9ba6-114756bd65bf",
         "generationType": "image-to-image",
         "promptType": "template",
@@ -485,18 +485,18 @@
     },
     {
         "id": 145,
-        "title": "妆面分析 + 优化建议！",
-        "prompt_en": "Analyze this image. Use red pen to denote where you can improve",
+        "title": "5️⃣ 绝美卡片设计",
+        "prompt_en": "按照我的图一名片设计稿的构图和质感，为我的图二人物生成卡片\n\n卡片右上角为可爱卡通形象，突出于卡片\n\nname: Nani\nOccupation：artist\nCompany：zano-banana\nTelephone：82732691",
         "image": "https://github.com/user-attachments/assets/fbd5739f-0082-4af0-acfd-0811d16be22e",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
-            "count": 1
+            "count": 2
         }
     },
     {
         "id": 146,
-        "title": "多人物插画集",
+        "title": "6️⃣ 多人物插画集",
         "prompt_en": "把前四个人物都变成图五那样的 黑白 极简风插画，人物要可爱并保持各自特点，并为每个人物配上合适的小道具，线条要优美，头发部分像图五那样为黑色块，并在一张图里",
         "image": "https://github.com/user-attachments/assets/176078dd-04f6-421b-b7f9-4507fb44b2c2",
         "generationType": "image-to-image",
