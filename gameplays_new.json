@@ -49,7 +49,7 @@
         "prompt_en": "将上传的图片转换为干净的线稿风格，保留主要的轮廓和结构线条，去除色彩和阴影，呈现出手绘线稿的艺术效果。",
         "image": "https://github.com/user-attachments/assets/bdb4ef91-225f-474b-a924-4754153df404",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
@@ -126,7 +126,7 @@
         "prompt_en": "对上传的模糊或质量较差的人脸照片进行智能修复，提升清晰度，恢复面部细节和自然质感。",
         "image": "https://github.com/user-attachments/assets/c844cba2-8b34-4c4f-9aff-22c43910cc2b",
         "generationType": "image-to-image",
-        "promptType": "fixed",
+        "promptType": "template",
         "imageRequirement": {
             "count": 1
         }
@@ -247,7 +247,7 @@
         "prompt_en": "将人物照片转换为可爱的人偶玩具效果，包括布娃娃、塑料玩具、木偶等不同材质和风格。保持人物的基本特征，同时增加玩具的可爱和趣味性。",
         "image": "https://github.com/user-attachments/assets/783be09e-e3a5-4afb-874d-0216fb3709ac",
         "generationType": "image-to-image",
-        "promptType": "template",
+        "promptType": "fixed",
         "imageRequirement": {
             "count": 1
         }
@@ -269,7 +269,7 @@
         "prompt_en": "将人物或场景转换为乐高积木风格，包含乐高特有的方形像素化效果和鲜艳的色彩搭配。可以是乐高人仔、乐高建筑或乐高场景等不同形式。",
         "image": "https://github.com/user-attachments/assets/a0a2f0af-26d0-445c-ba9d-f2481812e09d",
         "generationType": "image-to-image",
-        "promptType": "template",
+        "promptType": "fixed",
         "imageRequirement": {
             "count": 1
         }
@@ -302,7 +302,7 @@
         "prompt_en": "生成图中两人物所生孩子的样子，专业摄影",
         "image": "https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639",
         "generationType": "image-to-image",
-        "promptType": "template",
+        "promptType": "fixed",
         "imageRequirement": {
             "count": 2
         }
